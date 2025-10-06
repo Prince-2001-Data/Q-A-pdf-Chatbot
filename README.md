@@ -30,7 +30,7 @@ A **Retrieval-Augmented Generation (RAG)** system that allows users to upload PD
 
 1. Clone the repository:  
 
-git clone https://github.com/yourusername/rag-pdf-chat.git
+git clone https://github.com/Prince-2001-Data/rag-pdf-chat.git
 cd rag-pdf-chat
 Create a virtual environment:
 
